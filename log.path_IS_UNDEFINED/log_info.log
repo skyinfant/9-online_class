@@ -1,0 +1,29 @@
+2021-08-27 10:46:37.960 [restartedMain] INFO  c.tomorrowcat.online_class.OnlineClassApplication - Starting OnlineClassApplication on PC1 with PID 3612 (F:\Desktop\XD-threeStages-class\my-coding\9-myCode\online_class\target\classes started by DELL in F:\Desktop\XD-threeStages-class\my-coding\9-myCode\online_class)
+2021-08-27 10:46:37.970 [restartedMain] INFO  c.tomorrowcat.online_class.OnlineClassApplication - No active profile set, falling back to default profiles: default
+2021-08-27 10:46:38.035 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-27 10:46:38.035 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-27 10:46:39.353 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8089 (http)
+2021-08-27 10:46:39.363 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8089"]
+2021-08-27 10:46:39.363 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-27 10:46:39.364 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-08-27 10:46:39.441 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-27 10:46:39.441 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1404 ms
+2021-08-27 10:46:40.120 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-08-27 10:46:40.382 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-27 10:46:40.406 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8089"]
+2021-08-27 10:46:40.475 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8089 (http) with context path ''
+2021-08-27 10:46:40.488 [restartedMain] INFO  c.tomorrowcat.online_class.OnlineClassApplication - Started OnlineClassApplication in 3.184 seconds (JVM running for 4.898)
+2021-08-27 10:47:59.614 [http-nio-8089-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-27 10:47:59.614 [http-nio-8089-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-27 10:47:59.624 [http-nio-8089-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2021-08-27 10:47:59.694 [http-nio-8089-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-08-27 10:48:00.300 [http-nio-8089-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-08-27 10:48:00.408 [http-nio-8089-exec-1] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:48:00.608 [http-nio-8089-exec-4] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:48:22.028 [http-nio-8089-exec-6] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:48:28.130 [http-nio-8089-exec-9] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:48:30.803 [http-nio-8089-exec-1] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:49:24.715 [http-nio-8089-exec-3] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:49:30.945 [http-nio-8089-exec-5] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:49:43.414 [http-nio-8089-exec-8] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
+2021-08-27 10:53:49.541 [http-nio-8089-exec-6] INFO  c.t.online_class.controller.VideoController - get video list.... videoSize= 18 
