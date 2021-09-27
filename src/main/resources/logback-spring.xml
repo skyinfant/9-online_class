@@ -10,7 +10,7 @@
     <!-- name的值是变量的名称，value的值时变量定义的值。通过定义的值会被插入到logger上下文中。定义变量后，可以使“${}”来使用变量。 -->
     <!--<property name="log.path" value="/data/java/log/18/8082" />-->
     <!--从application.properties中读取日志路径-->
-    <springProperty scope="context" name="log.path" source="logging.path"/>
+    <!--<springProperty scope="context" name="log.path" source="logging.path"/>-->
 
 
     <!-- 彩色日志 -->
