@@ -22,7 +22,12 @@ CubeUI       前端组件库
 localStorage     用于存放token到浏览器
 
 部署方式：
-1、在mysql创建一个database，然后执行项目中的online_class.sql，生成相关库表和数据
-2、在idea启动本项目即可
+1、在mysql创建一个database，然后执行项目中的online_class.sql，生成相关表和数据
+2、配置好application.properties的数据库参数
+2、在idea启动本项目
+3、用VSCODE打开前端代码，然后在控制台运行：cnpm run serve
+4、运行成功后点击控制台的链接即可访问网站首页
+
+本项目的前端代码：git@github.com:skyinfant/9-online_class_front.git
 
 
