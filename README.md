@@ -1,4 +1,5 @@
-项目名称：在线视频网站，这是后端部分
+项目名称：在线视频网站，这是后端部分，需要配合前端一起使用
+本项目的前端代码地址：https://github.com/skyinfant/9-online_class_front
 
 技术栈：
 项⽬技术栈：
@@ -28,6 +29,6 @@ localStorage     用于存放token到浏览器
 3、用VSCODE打开前端代码，然后在控制台运行：cnpm run serve
 4、运行成功后点击控制台的链接即可访问网站首页
 
-本项目的前端代码地址：https://github.com/skyinfant/9-online_class_front
+
 
 
